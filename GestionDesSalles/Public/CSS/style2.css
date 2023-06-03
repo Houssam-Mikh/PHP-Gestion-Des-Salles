@@ -1,0 +1,25 @@
+body {margin : 2cm; margin-top: 0pt; color:#000066;}
+
+hr {color: #990000}
+div.bas {color: #990000; text-align: center; font-size: 8pt
+}
+
+div.top {color: green}
+span.top {font-size : 18pt; font-weight:bold}
+span.Err {color : red; font-weight:bold;}
+div.section {background-color : #990000; color : white; font-size: 18px; margin-top: 1cm; margin-bottom: 1cm; padding : 0.5mm; padding-left : 3mm;   font-weight : bold}
+
+.msg {border-width : 1px; border-color: #990000; border-style:groove; padding : 5mm; line-height: 150%; color:#000066; text-align:justify}
+.button {font-weight :bold; color : #990000; text-align : right; text-decoration:none}
+
+table, td, th {border:1; border-color : #990000; border-style: solid; }
+
+td {padding:0.5cm;}
+td.droite {text-align : right}
+
+h4 {text-align : right; color : #FFFFFF; background : #990000}
+
+.titre {color: #990000; text-align : center; font-size : 16pt; font-family: Georgia, "Times New Roman", Times, serif; }
+.titre2 { text-align : center; font-size : 12pt; font-family: Georgia, "Times New Roman", Times, serif;}
+
+/*img.logo{border-radius: 50%; border : 0; hspace: 20; vspace: 20; align; left}*/
